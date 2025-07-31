@@ -327,7 +327,7 @@ Among other things, this script creates a virtual switch and a couple of veth in
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License🇻
